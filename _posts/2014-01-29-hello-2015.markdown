@@ -3,7 +3,7 @@ layout:     post
 title:      "占位符"
 subtitle:   " \"请智齿七夜朔尘谢谢喵\""
 date:       2026-05-19 00:37:00
-author:     "Hux"
+author:     "牢扩"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 占位符
