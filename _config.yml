@@ -83,19 +83,28 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
+        title: "七夜朔尘",
         href: "#"
     },{
-        title: "Bar",
+        title: "琼恩，“最后的叙述者”",
         href: "#"
     },{
-        title: "Example Friends",
+        title: "赛恩斯",
         href: "#"
     },{
-        title: "It helps SEO",
+        title: "西尔维娅",
         href: "#"
-    }
+    },{
+        title: "格尼特",
+        href: "#"
+    },{
+        title: "不死，不幸",
+        href: "#"
+    },{
+        title: "伊南娜",
+        href: "#"
+    },{
+        title: "特莱恩",
+        href: "#"
+      }
 ]
