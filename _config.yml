@@ -1,6 +1,6 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: 七夜朔尘的战报收集处~琼恩先生的粉丝后援会官网
+SEOTitle: 战报收集 | 最终物语
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: ""
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "嘻嘻我一定要赢口牙，希望大家多多pr球球惹"
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
