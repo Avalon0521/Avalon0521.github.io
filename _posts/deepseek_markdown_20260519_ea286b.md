@@ -1,14 +1,14 @@
 ---
 layout: post
-title:      "雨中曲·轮回"
-subtitle:   "使徒与天灾"
+title:      "雨中曲·翌日"
+subtitle:   ""
 date:       2026-05-19 12:00:00
-author:     "塞恩斯"
-header-img: "img/post-bg-rain.jpg"
+author:     "P头"
+header-img: ""
 tags:
-    - 小说
-    - 奇幻
-    - 轮回
+    - 战报
+    - ACT
+    - 雨中曲
     - 使徒
 ---
 
