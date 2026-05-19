@@ -19,3 +19,15 @@ h6 {
 .navbar-custom .navbar-brand {
   font-family: "Consolas", monospace;
 }
+
+/* 首页大标题缩小（桌面） */
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading h1 {
+    font-size: 40px; /* 可根据需要调整 */
+  }
+}
+
+/* 移动端也一起小一点 */
+.intro-header .site-heading h1 {
+  font-size: 32px;
+}
