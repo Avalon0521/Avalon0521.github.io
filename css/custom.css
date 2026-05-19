@@ -7,3 +7,15 @@ h5,
 h6 {
   font-family: "SimSun", "宋体", -apple-system, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", sans-serif;
 }
+
+/* Sidebar section titles (e.g., FEATURED TAGS) */
+.sidebar-container h5,
+.sidebar-container h5 a {
+  font-family: "Consolas", monospace;
+}
+
+/* Top navigation items */
+.navbar-custom .nav li a,
+.navbar-custom .navbar-brand {
+  font-family: "Consolas", monospace;
+}
