@@ -31,3 +31,9 @@ h6 {
 .intro-header .site-heading h1 {
   font-size: 32px;
 }
+
+/* 只影响文章页正文 */
+.post-content {
+  font-size: 18px;
+  line-height: 1.8;
+}
